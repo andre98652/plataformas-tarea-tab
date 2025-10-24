@@ -1,4 +1,5 @@
-package com.example.twotabs
+package com.example.myapplication
+
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
